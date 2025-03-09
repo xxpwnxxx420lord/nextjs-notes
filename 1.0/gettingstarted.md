@@ -39,3 +39,8 @@ and to run your app you need to paste in the terminal:
 ```bash
 npm run dev
 ```
+
+> TIP:
+> if you and other people are on the same network they can go on your website using the ip
+![image](https://github.com/user-attachments/assets/ea270690-235b-4ff5-9cbc-db6c0fb60e06)
+
