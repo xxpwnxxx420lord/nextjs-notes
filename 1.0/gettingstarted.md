@@ -33,3 +33,9 @@ then navigate to the folder by using; on the terminal
 ```bash
 cd projectname
 ```
+
+and to run your app you need to paste in the terminal:
+
+```bash
+npm run dev
+```
