@@ -20,11 +20,11 @@ some good websites that use nextjs are: 🕸️
 - [1.0.1](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/eslint.md) - What is eslint?
 - [1.1](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/comments.md) - Comments
 - [1.2](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/creating-layouts-and-pages.md) - Creating layouts and pages
-- [1.3](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/Optimizing-images-n-font.md) - Optimizing Images $ fonts
-- [1.3.1](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/webp-guide.md) - what is webp?
-- [1.4](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/1.0/optimization) - optimizating folder
-- [1.4.1](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/1.0/optimization/images.md) - optimizating images
-- [1.4.2](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/1.0/optimization/fonts.md) - optimizating fonts
+- [1.3](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/1.0/optimization) - optimizating folder
+- [1.3.1](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/1.0/optimization/images.md) - optimizating images
+- [1.3.2](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/1.0/optimization/fonts.md) - optimizating fonts
+- [1.3.3](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/webp-guide.md) - what is webp?
+
 
 
 ## Apps 💻
