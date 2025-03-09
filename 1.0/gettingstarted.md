@@ -24,6 +24,6 @@ Enter your desired project name in the space provided. For example, I'm naming m
 
 after that happens it will ask you if you want your project to use ‘typescript’ (typescript is a really good coding language, if you know js it will be easy) for this guide, I **will** use typescript because I find it easier to use.
 
-![image.png](attachment:9c770103-9771-4851-b6da-ea7cc646cbe6:image.png)
+![image.png](![image](https://github.com/user-attachments/assets/f513da72-24f3-4783-9b0b-44753d340e18))
 
 To ensure you're following along correctly and to minimize any potential issues or misunderstandings, I recommend carefully matching the tools, configurations, and settings demonstrated in my examples. This will help you achieve consistent results and make it easier to troubleshoot if you encounter any difficulties during the setup and development process.
