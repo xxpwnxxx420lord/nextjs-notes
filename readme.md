@@ -16,8 +16,8 @@ some good websites that use nextjs are:
 > - and i know there are lots of good nextjs projects.
 
 ## Glossary
-[1.0.1](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/gettingstarted.md) - Getting started and installation
-[1.0.0.1](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/eslint.md) - What is eslint?
+- [1.0.1](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/gettingstarted.md) - Getting started and installation
+- [1.0.0.1](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/eslint.md) - What is eslint?
 
 ## Apps 💻
 1. the app i use to take notes is [**notion**](https://www.notion.com/desktop) it is a really good note taking app with a really good interference 
