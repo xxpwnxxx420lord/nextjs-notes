@@ -8,7 +8,7 @@ You can store static files, like images and fonts, under a folder called public 
 
 The next.js `<image>` component extends the html `<tag>` element to provide:
 
-- **Size Optimization**: ****Automatically serving correctly sized images for each device, using modern image formats like [WebP](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/webp-guide.md)
+- **Size Optimization**: Automatically serving correctly sized images for each device, using modern image formats like [WebP](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/webp-guide.md)
 - **Visual stability:** Preventing [layout shift](https://web.dev/articles/cls) automatically when images are loading.
 - **Faster page loads:** Only loading images when they enter the viewport using native browser lazy loading, with optional blur-up placeholders.
 - **Asset flexibility:** Resizing images on-demand, even images stored on remote servers.
