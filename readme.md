@@ -10,12 +10,12 @@ im learning how to make development apps with ``next.js``, it is a really good r
 > Try not to skip any lessons! Everything is ordered from **least** to **most** skill. Skipping lessons can break your learning process, and lessons will get progressively complex.
 
 
-some good websites that use nextjs are:
+some good websites that use nextjs are: 🕸️
 > - [starry](https://luau.tech)
 > - [Vercel](vercel.com)
 > - and i know there are lots of good nextjs projects.
 
-## Glossary
+## Table of Contents 📕
 - [1.0.1](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/gettingstarted.md) - Getting started and installation
 - [1.0.1.1](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/eslint.md) - What is eslint?
 
