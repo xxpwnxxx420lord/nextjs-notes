@@ -70,6 +70,8 @@ export default function AboutPage() {
 }
 ```
 
+[all about me project](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/codeexamples/allaboutme)
+
 ### **Linking Between Pages**
 
 - **Using the Link Component**: Next.js provides a **`Link`** component for client-side navigation between pages. This component enhances performance by prefetching linked pages.
