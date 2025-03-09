@@ -1,0 +1,23 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+  --background: #0f0f0f;
+  --foreground: #e4e4e4;
+  --font-sans: Arial, Helvetica, sans-serif; /* Define your font here */
+  --font-mono: 'Courier New', Courier, monospace; /* Define your font here */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #1a1a1a; /* Dark mode background */
+    --foreground: #f0f0f0; /* Dark mode foreground */
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans); /* Use the defined font variable */
+}
