@@ -23,8 +23,8 @@ some good websites that use nextjs are: 🕸️
 - [1.3](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/Optimizing-images-n-font.md) - Optimizing Images $ fonts
 - [1.3.1](https://github.com/xxpwnxxx420lord/nextjs-notes/blob/main/1.0/webp-guide.md) - what is webp?
 - [1.4](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/1.0/optimization) - optimizating folder
-- [1.4.1](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/1.0/optimization/images.md)
-- [1.4.2](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/1.0/optimization/fonts.md)
+- [1.4.1](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/1.0/optimization/images.md) - optimizating images
+- [1.4.2](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/1.0/optimization/fonts.md) - optimizating fonts
 
 
 ## Apps 💻
