@@ -27,3 +27,9 @@ after that happens it will ask you if you want your project to use ‘typescript
 ![image](https://github.com/user-attachments/assets/e6d0dab2-1109-4fcc-8985-1714d4d040ec)
 
 To ensure you're following along correctly and to minimize any potential issues or misunderstandings, I recommend carefully matching the tools, configurations, and settings demonstrated in my examples. This will help you achieve consistent results and make it easier to troubleshoot if you encounter any difficulties during the setup and development process.
+
+then navigate to the folder by using; on the terminal
+
+```bash
+cd projectname
+```
