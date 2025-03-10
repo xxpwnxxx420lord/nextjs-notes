@@ -32,3 +32,6 @@ some good websites that use nextjs are: 🕸️
 2. the app i use to code in is [**visual studio code**](https://code.visualstudio.com/).
 3. and i used [**blackbox**](https://blackbox.ai) to help me make notes
 
+# Examples
+[font example for 1.3.2](https://github.com/xxpwnxxx420lord/nextjs-notes/tree/main/codeexamples/fontexample)
+
